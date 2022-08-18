@@ -16,4 +16,6 @@
 1. 学习 Git 代码 (vim, add, commit)
 2. Git 分支结构
 3. 提交与修改
-4. 上传至网站
+4. 上传至 Github/GitLab（http方式）
+5. SSH 加密
+6. 上传至 Github/GitLab（SSH方式）
